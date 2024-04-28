@@ -1,0 +1,58 @@
+.stack{
+    width: 100%;
+    background-color: rgb(190, 190, 190, 0.25);
+    z-index:10;
+    height: fit-content;
+}
+
+.button{
+    border:none;
+    text-decoration: none;
+    color:aliceblue;
+}
+
+.form{
+    padding-top: 2rem;
+    color:aliceblue;
+    text-align: left;
+    display: flex;
+    justify-content: left;
+}
+
+.stackdata{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    padding-top: 5rem;
+    margin-left: 40px;
+}
+
+.upgrade{
+    width: 15%;
+    border-radius: 50px;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+}
+
+.diamond{
+    color: aliceblue;
+    margin-right: 5px;
+}
+
+/* Style for the table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: monospace;
+  }
+  
+  th, td {
+    padding: 8px; 
+    font-family: monospace;
+  }
+  
+  tr:not(:last-child) {
+    margin-bottom: 10px;
+  };

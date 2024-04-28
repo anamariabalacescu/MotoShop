@@ -1,0 +1,15 @@
+.modal-content {
+    background-color: #2e2e2e;
+    color: white;
+  }
+  
+  .modal-content,
+  .modal-body,
+  .modal-header,
+  .modal-footer {
+    font-family: monospace;
+  }
+  
+  .form-label{
+    margin-block: 3px;
+  }

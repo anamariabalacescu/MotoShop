@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color: #2e2e2e; /* Example background color */
+  min-width: 100vh;
+  max-width: 100%;
+  min-height: 100vh;
+  max-height: fit-content;
+}
+
+.birthday-text {
+  font-size: 50px;
+  font-family: monospace;
+  padding: 20px;
+  color: #fff; /* Text color */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow for a subtle effect */
+}
